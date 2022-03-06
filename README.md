@@ -10,11 +10,34 @@ This was one of my first projects, so the challenges I faced where centered on g
 
 In the future, I would like to implememt some more features primarily a game user interface to enhance user experience.
 
+## Run Locally
 
-## Usage/Examples
+Clone the project
 
+```bash
+  git clone 
+https://github.com/ojxade312/Rock-Paper-Scissors.git
+```
 
-This project can be run locally after opening the reposiroey locally and viewing in the web browser.
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+This project can be run locally and viewed in the web browser.
+
 
 
 
